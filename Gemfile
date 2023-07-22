@@ -73,3 +73,7 @@ end
 
 gem 'pg'
 
+gem 'aws-sdk-s3'
+gem 'dotenv-rails', groups: [:development, :test]
+
+
